@@ -27,6 +27,7 @@
 <div>
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+   <img src="https://img.shields.io/badge/GitLab-F3F3F3.svg?style=for-the-badge&logo=GitLab&logoColor=black" />&nbsp
 </div>
 
 <div >
