@@ -16,8 +16,8 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/c++-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React query-3670A0?style=for-the-badge&logo=React query&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-150458.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
 </div>
 
 <br>
