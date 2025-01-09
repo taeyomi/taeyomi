@@ -11,8 +11,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-   <img src="https://img.shields.io/badge/tailwindcss-1572B6.svg?style=for-the-badge&logo=tailwindcss3&logoColor=white" />&nbsp
-   <img src="https://img.shields.io/badge/firebase-E34F26.svg?style=for-the-badge&logo=firebase5&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/TailwindCSS-1572B6.svg?style=for-the-badge&logo=TailwindCSS3&logoColor=Red" />&nbsp
+   <img src="https://img.shields.io/badge/Firebase-E34F26.svg?style=for-the-badge&logo=Firebase5&logoColor=Red" />&nbsp
 </div>
 
 <br>
@@ -39,6 +39,10 @@
 </div>
 
 <br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyomi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 </div>
