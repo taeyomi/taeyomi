@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/GraphQL-039BE5?style=for-the-badge&logo=GraphQL&logoColor=white" />&nbsp
 </div>
 
 <div >
